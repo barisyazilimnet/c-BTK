@@ -1,0 +1,8 @@
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Arrays\bin\Debug\Arrays.exe
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Arrays\bin\Debug\Arrays.pdb
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Arrays\obj\Debug\Arrays.exe
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Arrays\obj\Debug\Arrays.pdb

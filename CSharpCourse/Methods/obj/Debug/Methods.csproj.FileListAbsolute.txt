@@ -1,0 +1,16 @@
+C:\Users\kurt-\Desktop\c#\CSharpCourse\Methods\bin\Debug\Methods.exe.config
+C:\Users\kurt-\Desktop\c#\CSharpCourse\Methods\bin\Debug\Methods.exe
+C:\Users\kurt-\Desktop\c#\CSharpCourse\Methods\bin\Debug\Methods.pdb
+C:\Users\kurt-\Desktop\c#\CSharpCourse\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\kurt-\Desktop\c#\CSharpCourse\Methods\obj\Debug\Methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurt-\Desktop\c#\CSharpCourse\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\kurt-\Desktop\c#\CSharpCourse\Methods\obj\Debug\Methods.exe
+C:\Users\kurt-\Desktop\c#\CSharpCourse\Methods\obj\Debug\Methods.pdb
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Methods\bin\Debug\Methods.exe.config
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Methods\bin\Debug\Methods.exe
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Methods\bin\Debug\Methods.pdb
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Methods\obj\Debug\Methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Methods\obj\Debug\Methods.exe
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Methods\obj\Debug\Methods.pdb
