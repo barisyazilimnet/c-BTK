@@ -1,0 +1,8 @@
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.exe.config
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.exe
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.pdb
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.csproj.AssemblyReference.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.exe
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.pdb

@@ -1,0 +1,8 @@
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\RecapDemo2\bin\Debug\RecapDemo2.exe.config
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\RecapDemo2\bin\Debug\RecapDemo2.exe
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\RecapDemo2\bin\Debug\RecapDemo2.pdb
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.csproj.AssemblyReference.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.csproj.CoreCompileInputs.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.exe
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.pdb
