@@ -1,0 +1,8 @@
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Collections\bin\Debug\Collections.exe.config
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Collections\bin\Debug\Collections.exe
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Collections\bin\Debug\Collections.pdb
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Collections\obj\Debug\Collections.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Collections\obj\Debug\Collections.exe
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Collections\obj\Debug\Collections.pdb
