@@ -1,0 +1,16 @@
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.AssemblyReference.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Form1.resources
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Properties.Resources.resources
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.GenerateResource.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe.config
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.pdb
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CopyComplete
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.exe
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb
