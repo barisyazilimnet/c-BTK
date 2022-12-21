@@ -1,0 +1,8 @@
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Generics\obj\Debug\Generics.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Generics\bin\Debug\Generics.exe.config
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Generics\bin\Debug\Generics.exe
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Generics\bin\Debug\Generics.pdb
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Generics\obj\Debug\Generics.exe
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Generics\obj\Debug\Generics.pdb

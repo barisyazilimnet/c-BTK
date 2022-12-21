@@ -1,0 +1,8 @@
+C:\Users\MSI\Desktop\c#\CSharpCourse\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\c#\CSharpCourse\Events\obj\Debug\Events.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\Desktop\c#\CSharpCourse\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\c#\CSharpCourse\Events\bin\Debug\Events.exe.config
+C:\Users\MSI\Desktop\c#\CSharpCourse\Events\bin\Debug\Events.exe
+C:\Users\MSI\Desktop\c#\CSharpCourse\Events\bin\Debug\Events.pdb
+C:\Users\MSI\Desktop\c#\CSharpCourse\Events\obj\Debug\Events.exe
+C:\Users\MSI\Desktop\c#\CSharpCourse\Events\obj\Debug\Events.pdb

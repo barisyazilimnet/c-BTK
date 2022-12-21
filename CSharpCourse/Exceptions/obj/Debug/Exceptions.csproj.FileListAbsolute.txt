@@ -6,3 +6,11 @@ C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Exceptions\obj\Debug\Exceptio
 C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
 C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Exceptions\obj\Debug\Exceptions.exe
 C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Exceptions\obj\Debug\Exceptions.pdb
+C:\Users\MSI\Desktop\c#\CSharpCourse\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\MSI\Desktop\c#\CSharpCourse\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\MSI\Desktop\c#\CSharpCourse\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\MSI\Desktop\c#\CSharpCourse\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\c#\CSharpCourse\Exceptions\obj\Debug\Exceptions.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\Desktop\c#\CSharpCourse\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\c#\CSharpCourse\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\MSI\Desktop\c#\CSharpCourse\Exceptions\obj\Debug\Exceptions.pdb

@@ -21,6 +21,11 @@ namespace EntityFrameworkDemo
         {
             dgwProducts.DataSource = _productDal.GetAll();
         }
+        private void SearchProducts(string key)
+        {
+            // direk listeye filtreleme 
+            dgwProducts.DataSource = _productDal.GetAll().Where(p => p.Name.ToLower().Contains(key.ToLower())).ToList();
+        }
         private void Form1_Load(object sender, EventArgs e)
         {
             LoadProducts();
@@ -64,6 +69,11 @@ namespace EntityFrameworkDemo
             });
             LoadProducts();
             MessageBox.Show("Deleted!");
+        }
+
+        private void tbxSearch_TextChanged(object sender, EventArgs e)
+        {
+            dgwProducts.DataSource = _productDal.GetByName(tbxSearch.Text);
         }
     }
 }

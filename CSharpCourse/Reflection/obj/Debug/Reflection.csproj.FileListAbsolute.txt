@@ -1,0 +1,16 @@
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Reflection\bin\Debug\Reflection.exe
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Reflection\bin\Debug\Reflection.pdb
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Reflection\obj\Debug\Reflection.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Reflection\obj\Debug\Reflection.exe
+C:\Users\kurt-\OneDrive\Masaüstü\c#\CSharpCourse\Reflection\obj\Debug\Reflection.pdb
+C:\Users\kurt-\Desktop\c#\CSharpCourse\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\kurt-\Desktop\c#\CSharpCourse\Reflection\bin\Debug\Reflection.exe
+C:\Users\kurt-\Desktop\c#\CSharpCourse\Reflection\bin\Debug\Reflection.pdb
+C:\Users\kurt-\Desktop\c#\CSharpCourse\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+C:\Users\kurt-\Desktop\c#\CSharpCourse\Reflection\obj\Debug\Reflection.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurt-\Desktop\c#\CSharpCourse\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\kurt-\Desktop\c#\CSharpCourse\Reflection\obj\Debug\Reflection.exe
+C:\Users\kurt-\Desktop\c#\CSharpCourse\Reflection\obj\Debug\Reflection.pdb

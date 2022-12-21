@@ -1,0 +1,16 @@
+C:\Users\kurt-\Desktop\c#\CSharpCourse\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\kurt-\Desktop\c#\CSharpCourse\Delegates\bin\Debug\Delegates.exe
+C:\Users\kurt-\Desktop\c#\CSharpCourse\Delegates\bin\Debug\Delegates.pdb
+C:\Users\kurt-\Desktop\c#\CSharpCourse\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Users\kurt-\Desktop\c#\CSharpCourse\Delegates\obj\Debug\Delegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurt-\Desktop\c#\CSharpCourse\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\kurt-\Desktop\c#\CSharpCourse\Delegates\obj\Debug\Delegates.exe
+C:\Users\kurt-\Desktop\c#\CSharpCourse\Delegates\obj\Debug\Delegates.pdb
+C:\Users\MSI\Desktop\c#\CSharpCourse\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\MSI\Desktop\c#\CSharpCourse\Delegates\bin\Debug\Delegates.exe
+C:\Users\MSI\Desktop\c#\CSharpCourse\Delegates\bin\Debug\Delegates.pdb
+C:\Users\MSI\Desktop\c#\CSharpCourse\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\c#\CSharpCourse\Delegates\obj\Debug\Delegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\Desktop\c#\CSharpCourse\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\c#\CSharpCourse\Delegates\obj\Debug\Delegates.exe
+C:\Users\MSI\Desktop\c#\CSharpCourse\Delegates\obj\Debug\Delegates.pdb
