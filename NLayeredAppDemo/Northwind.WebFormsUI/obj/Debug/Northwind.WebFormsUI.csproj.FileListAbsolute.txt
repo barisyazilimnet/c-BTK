@@ -21,3 +21,12 @@ C:\Users\MSI\Desktop\c#\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind
 C:\Users\MSI\Desktop\c#\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.CopyComplete
 C:\Users\MSI\Desktop\c#\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.exe
 C:\Users\MSI\Desktop\c#\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.pdb
+C:\Users\MSI\Desktop\c#\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\FluentValidation.dll
+C:\Users\MSI\Desktop\c#\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MSI\Desktop\c#\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MSI\Desktop\c#\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.Business.dll.config
+C:\Users\MSI\Desktop\c#\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\FluentValidation.xml
+C:\Users\MSI\Desktop\c#\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MSI\Desktop\c#\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MSI\Desktop\c#\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Ninject.dll
+C:\Users\MSI\Desktop\c#\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Ninject.xml

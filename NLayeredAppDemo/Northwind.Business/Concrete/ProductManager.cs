@@ -4,6 +4,8 @@ using Northwind.Entites.Concrete;
 using System.Collections.Generic;
 using System.Data.Entity.Infrastructure;
 using System;
+using Northwind.Business.ValidationRules.FluentValidation;
+using FluentValidation;
 
 namespace Northwind.Business.Concrete
 {
@@ -18,6 +20,10 @@ namespace Northwind.Business.Concrete
 
         public void Add(Product product)
         {
+            ProductValidatior productvalidatior = new ProductValidatior();
+            var result = productvalidatior.Validate(product);
+            if(result.Errors.Count>0)
+                throw new ValidationException(result.Errors);
             _productDal.Add(product);
         }
 
