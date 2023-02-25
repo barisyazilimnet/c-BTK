@@ -1,0 +1,8 @@
+C:\Users\MSI\Desktop\c#\DesignPatterns\Composite\bin\Debug\Composite.exe.config
+C:\Users\MSI\Desktop\c#\DesignPatterns\Composite\bin\Debug\Composite.exe
+C:\Users\MSI\Desktop\c#\DesignPatterns\Composite\bin\Debug\Composite.pdb
+C:\Users\MSI\Desktop\c#\DesignPatterns\Composite\obj\Debug\Composite.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\c#\DesignPatterns\Composite\obj\Debug\Composite.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\Desktop\c#\DesignPatterns\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\c#\DesignPatterns\Composite\obj\Debug\Composite.exe
+C:\Users\MSI\Desktop\c#\DesignPatterns\Composite\obj\Debug\Composite.pdb

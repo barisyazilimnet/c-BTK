@@ -1,0 +1,3 @@
+C:\Users\MSI\Desktop\c#\DesignPatterns\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\c#\DesignPatterns\Builder\obj\Debug\Builder.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\Desktop\c#\DesignPatterns\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache

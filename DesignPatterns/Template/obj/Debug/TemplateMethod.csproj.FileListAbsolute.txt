@@ -1,0 +1,8 @@
+C:\Users\MSI\Desktop\c#\DesignPatterns\Template\bin\Debug\Template.exe.config
+C:\Users\MSI\Desktop\c#\DesignPatterns\Template\bin\Debug\Template.exe
+C:\Users\MSI\Desktop\c#\DesignPatterns\Template\bin\Debug\Template.pdb
+C:\Users\MSI\Desktop\c#\DesignPatterns\Template\obj\Debug\TemplateMethod.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\c#\DesignPatterns\Template\obj\Debug\TemplateMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\Desktop\c#\DesignPatterns\Template\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\c#\DesignPatterns\Template\obj\Debug\Template.exe
+C:\Users\MSI\Desktop\c#\DesignPatterns\Template\obj\Debug\Template.pdb
