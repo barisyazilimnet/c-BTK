@@ -1,0 +1,8 @@
+C:\Users\kurt-\OneDrive\Masaüstü\c#\ReferenceTypesDemo\ReferenceTypesDemo\bin\Debug\ReferenceTypesDemo.exe.config
+C:\Users\kurt-\OneDrive\Masaüstü\c#\ReferenceTypesDemo\ReferenceTypesDemo\bin\Debug\ReferenceTypesDemo.exe
+C:\Users\kurt-\OneDrive\Masaüstü\c#\ReferenceTypesDemo\ReferenceTypesDemo\bin\Debug\ReferenceTypesDemo.pdb
+C:\Users\kurt-\OneDrive\Masaüstü\c#\ReferenceTypesDemo\ReferenceTypesDemo\obj\Debug\ReferenceTypesDemo.csproj.AssemblyReference.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\ReferenceTypesDemo\ReferenceTypesDemo\obj\Debug\ReferenceTypesDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\ReferenceTypesDemo\ReferenceTypesDemo\obj\Debug\ReferenceTypesDemo.csproj.CoreCompileInputs.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\ReferenceTypesDemo\ReferenceTypesDemo\obj\Debug\ReferenceTypesDemo.exe
+C:\Users\kurt-\OneDrive\Masaüstü\c#\ReferenceTypesDemo\ReferenceTypesDemo\obj\Debug\ReferenceTypesDemo.pdb

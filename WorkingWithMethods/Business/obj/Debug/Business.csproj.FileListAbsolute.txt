@@ -1,0 +1,17 @@
+C:\Users\kurt-\OneDrive\Masaüstü\c#\WorkingWithMethods\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\WorkingWithMethods\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\WorkingWithMethods\Business\bin\Debug\Business.dll
+C:\Users\kurt-\OneDrive\Masaüstü\c#\WorkingWithMethods\Business\bin\Debug\Business.pdb
+C:\Users\kurt-\OneDrive\Masaüstü\c#\WorkingWithMethods\Business\bin\Debug\DataAccess.dll
+C:\Users\kurt-\OneDrive\Masaüstü\c#\WorkingWithMethods\Business\bin\Debug\Entity.dll
+C:\Users\kurt-\OneDrive\Masaüstü\c#\WorkingWithMethods\Business\bin\Debug\FluentValidation.dll
+C:\Users\kurt-\OneDrive\Masaüstü\c#\WorkingWithMethods\Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kurt-\OneDrive\Masaüstü\c#\WorkingWithMethods\Business\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kurt-\OneDrive\Masaüstü\c#\WorkingWithMethods\Business\bin\Debug\DataAccess.pdb
+C:\Users\kurt-\OneDrive\Masaüstü\c#\WorkingWithMethods\Business\bin\Debug\Entity.pdb
+C:\Users\kurt-\OneDrive\Masaüstü\c#\WorkingWithMethods\Business\bin\Debug\FluentValidation.xml
+C:\Users\kurt-\OneDrive\Masaüstü\c#\WorkingWithMethods\Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kurt-\OneDrive\Masaüstü\c#\WorkingWithMethods\Business\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kurt-\OneDrive\Masaüstü\c#\WorkingWithMethods\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\kurt-\OneDrive\Masaüstü\c#\WorkingWithMethods\Business\obj\Debug\Business.dll
+C:\Users\kurt-\OneDrive\Masaüstü\c#\WorkingWithMethods\Business\obj\Debug\Business.pdb

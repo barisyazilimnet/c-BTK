@@ -1,0 +1,6 @@
+C:\Users\kurt-\OneDrive\Masaüstü\c#\WorkingWithMethods\Entity\bin\Debug\Entity.dll
+C:\Users\kurt-\OneDrive\Masaüstü\c#\WorkingWithMethods\Entity\bin\Debug\Entity.pdb
+C:\Users\kurt-\OneDrive\Masaüstü\c#\WorkingWithMethods\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\WorkingWithMethods\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\WorkingWithMethods\Entity\obj\Debug\Entity.dll
+C:\Users\kurt-\OneDrive\Masaüstü\c#\WorkingWithMethods\Entity\obj\Debug\Entity.pdb

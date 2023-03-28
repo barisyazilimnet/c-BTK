@@ -1,0 +1,8 @@
+C:\Users\kurt-\OneDrive\Masaüstü\c#\SalesEducation\SalesEducation\bin\Debug\SalesEducation.exe.config
+C:\Users\kurt-\OneDrive\Masaüstü\c#\SalesEducation\SalesEducation\bin\Debug\SalesEducation.exe
+C:\Users\kurt-\OneDrive\Masaüstü\c#\SalesEducation\SalesEducation\bin\Debug\SalesEducation.pdb
+C:\Users\kurt-\OneDrive\Masaüstü\c#\SalesEducation\SalesEducation\obj\Debug\SalesEducation.csproj.AssemblyReference.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\SalesEducation\SalesEducation\obj\Debug\SalesEducation.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\SalesEducation\SalesEducation\obj\Debug\SalesEducation.csproj.CoreCompileInputs.cache
+C:\Users\kurt-\OneDrive\Masaüstü\c#\SalesEducation\SalesEducation\obj\Debug\SalesEducation.exe
+C:\Users\kurt-\OneDrive\Masaüstü\c#\SalesEducation\SalesEducation\obj\Debug\SalesEducation.pdb
